@@ -22,7 +22,7 @@ function App() {
       fs-3
 
 " style={{height:"10vh"}}>
-        Avangrid Recordings
+        Recordings
       </div>
 
 
