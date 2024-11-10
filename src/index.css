@@ -1,0 +1,5 @@
+
+.form-control:focus {
+  border-color: #198754; /* Bootstrap 'success' green */
+  box-shadow: 0 0 0 0.2rem rgba(25, 135, 84, 0.25); /* Green shadow */
+}
